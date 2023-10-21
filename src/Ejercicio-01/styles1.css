@@ -1,0 +1,13 @@
+p{
+    background-color: chartreuse;
+}
+
+.destacado{
+    border: 3px solid black;
+}
+
+#parrafo-grande{
+    font-size: 2rem;
+    font-weight:bold;
+}
+
