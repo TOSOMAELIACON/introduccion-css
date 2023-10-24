@@ -1,0 +1,14 @@
+/* Estilo para tipo de letra */
+.font-style {
+    font-family: Arial, sans-serif;
+}
+
+/* Estilo para el tamaño de la letra */
+.font-size {
+    font-size: 20px;
+}
+
+/* Estilo para la negrita */
+.font-weight {
+    font-weight: 700;
+}
