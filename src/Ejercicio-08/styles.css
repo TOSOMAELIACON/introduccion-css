@@ -1,0 +1,19 @@
+/* Estilo para el contendor */
+.background-image {
+    width: 300px;
+    height: 200px;
+    padding: 20px;
+    border: 2px solid black;
+    margin-bottom: 30px;
+    background-image: url(https://previews.123rf.com/images/maximusnd/maximusnd1707/maximusnd170702407/82017455-estrellas-y-galaxias-en-el-espacio-exterior-que-muestran-la-belleza-de-la-exploraci%C3%B3n-espacial.jpg);
+    background-repeat: repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+p {
+    color: white;
+    padding: 50px;
+    text-align: center;
+    font-size: 20px;
+}
